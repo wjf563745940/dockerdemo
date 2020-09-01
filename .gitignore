@@ -1,0 +1,10 @@
+node_modules/
+.svn/
+.*zip
+.*7z
+npm-debug.log.*
+yarn-debug.log.*
+yarn-error.log.*
+
+.idea
+.vscode
